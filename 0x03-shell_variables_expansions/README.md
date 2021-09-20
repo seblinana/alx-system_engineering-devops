@@ -1,0 +1,1 @@
+variables and expansions used in shell.

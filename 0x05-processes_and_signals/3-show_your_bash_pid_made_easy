@@ -4,4 +4,3 @@ for s in $(pidof bash);
 do
  echo "$s bash"
 done
-

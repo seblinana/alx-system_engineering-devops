@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Prints PID, along with the process name, of processes whose name contain the word bash.
+for s in $(pidof bash);
+do
+ echo "$s bash"
+done
+
